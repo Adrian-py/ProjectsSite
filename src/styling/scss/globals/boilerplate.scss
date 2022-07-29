@@ -1,0 +1,36 @@
+@use "../utils/breakpoints.scss" as *;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: var(--mainFont);
+  background: var(--light);
+}
+
+body {
+  height: 100vh;
+}
+
+#root {
+  width: 66.45%;
+  height: 100%;
+  margin: auto;
+  padding-top: 8.203vh;
+
+  @include breakpoint("MDesktop") {
+    width: 70%;
+  }
+
+  @include breakpoint("SDesktop") {
+    width: 80%;
+  }
+
+  @include breakpoint("tablet") {
+    width: 90%;
+    padding-top: 6vh;
+  }
+}

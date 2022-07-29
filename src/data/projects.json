@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Kenshin Impact Game Website",
+    "date": "30 June 2021",
+    "type": "Personal",
+    "description": "This is a part of a final project for a web development course I was taking in college. The site consists of several pages that provides information about a fictional game called 'Kenshin Impact'. The technologies used to make the website are vanilla HTML, CSS, and Javascript.",
+    "githubLink": "https://github.com/Adrian-py/ProjectsRepo/tree/master/KenshinImpact",
+    "liveSiteLink": "https://adrian-py.github.io/ProjectsRepo/KenshinImpact/Landing%20Page/landing-page.html",
+    "imageLink": "kenshin-impact.jpg"
+  },
+  {
+    "title": "Portfolio Website",
+    "date": "2 March 2022",
+    "type": "Personal",
+    "description": "This project was part of a frontend development class I had in my college. The task was to develop a portfolio website consisting of 4 pages, the home, about, contact, and projects page. A connection to a firebase database is also required to save messages from the contact form.",
+    "githubLink": "https://github.com/Adrian-py/ProjectsRepo/tree/master/Portfolio",
+    "liveSiteLink": "https://adrian-py.github.io/ProjectsRepo/Portfolio/index.html",
+    "imageLink": "portfolio.jpg"
+  },
+  {
+    "title": "Profile Card Component",
+    "date": "13 November 2021",
+    "type": "Frontend Mentor",
+    "description": "This project requires me to create a single webpage containing a card component. The card is filled with a picutre, name, age, and social media statistics of a person. For creating the project, I used vanilla CSS.",
+    "githubLink": "https://github.com/Adrian-py/ProjectsRepo/tree/master/ProfileCardComponent",
+    "liveSiteLink": "https://adrian-py.github.io/ProjectsRepo/ProfileCardComponent/index.html",
+    "imageLink": "profile-card-component.jpg"
+  },
+  {
+    "title": "Random Animal Generator",
+    "date": "6 March 2022",
+    "type": "Personal",
+    "description": "This project is my first personal project where I use a public API for the content of the website. When creating the project, some note worthy technologies  used are modular SASS, vanilla Javascript, and BEM naming convention.",
+    "githubLink": "https://github.com/Adrian-py/ProjectsRepo/tree/master/AnimalGenerator",
+    "liveSiteLink": "https://adrian-py.github.io/ProjectsRepo/AnimalGenerator/index.html",
+    "imageLink": "animal-generator.jpg"
+  },
+  {
+    "title": "Sneakers",
+    "date": "19 July 2022",
+    "type": "Frontend Mentor",
+    "description": "This project requires me to create a product page for an e-commerce website called Sneakers. The technologies used for the projects are vanilla Javascript and SASS. Similar to most of my other frontend mentor projects, I seperate my SASS files into parts based on the functionalities and also use BEM for naming classes and ids",
+    "githubLink": "https://github.com/Adrian-py/ProjectsRepo/tree/master/Sneakers",
+    "liveSiteLink": "https://adrian-py.github.io/ProjectsRepo/Sneakers/index.html",
+    "imageLink": "sneakers.jpg"
+  },
+  {
+    "title": "Social Media Dashboard",
+    "date": "30 January 2022",
+    "type": "Frontend Mentor",
+    "description": "I got the inspiration for doing this project by CoderCoder, which is a youtuber I often watch for front-end development content. Because of this project, I started to learn about modular SASS. It is because of doing this project did I start to use SASS for any frontend development I do in the future.",
+    "githubLink": "https://github.com/Adrian-py/ProjectsRepo/tree/master/SocialMediaDashboard",
+    "liveSiteLink": "https://adrian-py.github.io/ProjectsRepo/SocialMediaDashboard/index.html",
+    "imageLink": "social-media-dashboard.jpg"
+  },
+  {
+    "title": "Stats Preview Card Component",
+    "date": "6 January 2022",
+    "type": "Frontend Mentor",
+    "description": "This project is one of the first front end mentor projects that I have done and was created using vanilla Javascript and CSS. The project only requires you to create a card component containing content.",
+    "githubLink": "https://github.com/Adrian-py/ProjectsRepo/tree/master/StatsPreviewCard",
+    "liveSiteLink": "https://adrian-py.github.io/ProjectsRepo/StatsPreviewCard/index.html",
+    "imageLink": "stats-preview-card.jpg"
+  },
+  {
+    "title": "Sunnyside Agency Landing Page",
+    "date": "17 November 2021",
+    "type": "Frontend Mentor",
+    "description": "The project is to create a landing page for a company, where the main challenge I encountered was to layout the sections properly and make the site both responsive and SEO friendly.",
+    "githubLink": "https://github.com/Adrian-py/ProjectsRepo/tree/master/SunnysideAgencyLanding",
+    "liveSiteLink": "https://adrian-py.github.io/ProjectsRepo/SunnysideAgencyLanding/index.html",
+    "imageLink": "sunnyside-landing-page.jpg"
+  },
+  {
+    "title": "Tip Calculator",
+    "date": "14 April 2022",
+    "type": "Frontend Mentor",
+    "description": "This project was quite unique as it requires me to implement a lot of features for calculating the neccessary tip and create a functional calculator. For creating the tip calculator, I used modular SASS, vanilla Javascript, and BEM naming convention for the class names.",
+    "githubLink": "https://github.com/Adrian-py/ProjectsRepo/tree/master/TipCalculator",
+    "liveSiteLink": "https://adrian-py.github.io/ProjectsRepo/TipCalculator/index.html",
+    "imageLink": "tip-calculator.jpg"
+  },
+  {
+    "title": "Twitter Clone Front End",
+    "date": "21 October 2021",
+    "type": "Personal",
+    "description": "This project is the first front end project that I have ever done. Using only vanilla HTML, CSS and Javascript, I tried to create a front end for a twitter that has slight user interface differences with the original site.",
+    "githubLink": "https://github.com/Adrian-py/ProjectsRepo/tree/master/TwitterCloneFrontend",
+    "liveSiteLink": "https://adrian-py.github.io/ProjectsRepo/TwitterCloneFrontend/homepage/index.html",
+    "imageLink": "twitter-clone.jpg"
+  }
+]

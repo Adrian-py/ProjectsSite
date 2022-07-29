@@ -1,0 +1,16 @@
+:root {
+  // Colors
+  --Darkblue: #495bff;
+  --Blue: #6b79fd;
+  --lightBlue: #bfc5ff;
+  --light: #f9f9ff;
+  --dark: #272727;
+  --darkVariant: rgba(39, 39, 39, 0.05);
+  --githubBackground: linear-gradient(90deg, #495bff 22.4%, #6b79fd 100%);
+  --liveSiteBackground: linear-gradient(180deg, #ffae35 0%, #ffd18d 100%);
+
+  // Effects Colors
+  --chosenBtn: 0px 0px 12px var(--Darkblue);
+  --notChosenBtn: 0px 4px 12px rgba(73, 91, 255, 0.5);
+  --cardShadow: 0px 4px 12px var(--lightBlue);
+}
