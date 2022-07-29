@@ -4,7 +4,7 @@ import githubIcon from "../assets/github.svg";
 import liveSiteIcon from "../assets/live-site.svg";
 
 export default function ProjectItem({ project }) {
-  const imageLink = "/images/" + project.imageLink;
+  const imageLink = "/ProjectsSite/images/" + project.imageLink;
 
   return (
     <div className="project">
